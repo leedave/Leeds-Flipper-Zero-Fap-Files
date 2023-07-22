@@ -18,6 +18,9 @@ I'll try my best to supply versions for the original and the common custom firmw
 - Unleashed
 - Xtreme
 
+## Offical App Catalog
+You can find some of these Applications in the Official Flipper Zero App Catalog. This is embeded into the Mobile App. 
+
 ## Alternate Sources
 Also checkout the unofficial Flipper App store, that allows you to build and install apps directly from Github to your device
 [https://flipc.org/]
